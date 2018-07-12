@@ -12,4 +12,8 @@ If you have any 🔥 taco recipes, then share them on here.
 
 You need not apply.
 
+## Recipes
+
+- [Week 1: The Saucy Hen](./recipes/week-1.md)
+
 ![tacos!!](https://media.giphy.com/media/EsDCYBUQM0KlO/giphy.gif)
