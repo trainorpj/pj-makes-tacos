@@ -1,4 +1,4 @@
-# Week 1 - The Saucy Hen 🐥
+# Week 1
 
 ## Ingredients
 
@@ -11,7 +11,7 @@
 - almond slices (unless you forget them...)
 - salt-n-pepa (always)
 
-## Takeaways
+## Notes
 
 How does one get perfectly crispy golden tortillas? My first one was mega oily, and the last ones were dry 🏜.
 

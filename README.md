@@ -14,6 +14,8 @@ You need not apply.
 
 ## Recipes
 
-- [Week 1: The Saucy Hen](./recipes/week-1.md)
+- [Week 1](./recipes/week-1.md)
+- [Week 2](./recipes/week-2.md)
+- [Week 3](./recipes/week-3.md)
 
 ![tacos!!](https://media.giphy.com/media/EsDCYBUQM0KlO/giphy.gif)
