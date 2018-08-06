@@ -4,7 +4,7 @@
 
 A new recipe each week, with helpful insights
 
-If you have any 🔥 taco recipes, then share them on here.
+If you have any 🔥 taco recipes, then share them with me.
 
 > **Note**: My tacos don't have cheese because I think cheese is gross. If this is an issue, please refer to the section on haters.
 
