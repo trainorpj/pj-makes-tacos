@@ -17,5 +17,6 @@ You need not apply.
 - [Week 1](./recipes/week-1.md)
 - [Week 2](./recipes/week-2.md)
 - [Week 3](./recipes/week-3.md)
+- [Week 4](./recipes/week-4.md)
 
 ![tacos!!](https://media.giphy.com/media/EsDCYBUQM0KlO/giphy.gif)
