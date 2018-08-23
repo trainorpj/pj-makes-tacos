@@ -1,6 +1,6 @@
 # Week 3
 
-## Ingredients
+## Recipe
 
 - steak chunks (or bits? Idk they're small)
 - roasted cauliflower

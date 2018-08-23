@@ -1,6 +1,6 @@
 # Week 4
 
-## Ingredients
+## Recipe
 
 - lightly fried tofu
 - a vegetable medley

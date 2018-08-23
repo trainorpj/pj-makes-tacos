@@ -1,6 +1,6 @@
 # Week 2
 
-## Ingredients
+## Recipe
 
 - kielbasa
 - mango salsa

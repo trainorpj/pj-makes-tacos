@@ -1,6 +1,6 @@
 # Week 1
 
-## Ingredients
+## Recipe
 
 - corn tortillas (always)
 - blackened chicken
