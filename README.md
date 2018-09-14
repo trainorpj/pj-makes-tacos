@@ -18,5 +18,11 @@ You need not apply.
 - [Week 2](./recipes/week-2.md)
 - [Week 3](./recipes/week-3.md)
 - [Week 4](./recipes/week-4.md)
+- [Week 5](./recipes/week-5.md)
+- [Week 6](./recipes/week-6.md)
+- [Week 7](./recipes/week-7.md)
+- [Week 8](./recipes/week-8.md)
+- [Week 9](./recipes/week-9.md)
+- [Week 10](./recipes/week-10.md)
 
 ![tacos!!](https://media.giphy.com/media/EsDCYBUQM0KlO/giphy.gif)
